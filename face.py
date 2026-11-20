@@ -1,0 +1,1 @@
+/usr/bin/python3 "/Users/helenacosta/Downloads/testeopencv.py"
